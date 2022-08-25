@@ -34,4 +34,4 @@ pip install -r requirements.txt
 ```
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FrancyJ2M/simplebot_tg2/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/FrancyJ2M/bottg/tree/main)
